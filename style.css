@@ -12,7 +12,8 @@ padding: 0;
 
 line-height: 1.6;
 
-}header {
+}
+header {
 
 background-color: #4CAF50;
 
@@ -108,11 +109,25 @@ a:hover {
 text-decoration: underline;
 
 }
-img {
+p {
 
-border: 5px solid #4CAF50;
+font-size: 1.1em;
 
-border-radius: 10px;
+}
+
+
+a {
+
+color: #4CAF50;
+
+text-decoration: none;
+
+}
+
+
+a:hover {
+
+text-decoration: underline;
 
 }
 main a[href^="mailto:"] {
