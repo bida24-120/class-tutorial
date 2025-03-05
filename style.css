@@ -109,25 +109,11 @@ a:hover {
 text-decoration: underline;
 
 }
-p {
+img {
 
-font-size: 1.1em;
+border: 5px solid #4CAF50;
 
-}
-
-
-a {
-
-color: #4CAF50;
-
-text-decoration: none;
-
-}
-
-
-a:hover {
-
-text-decoration: underline;
+border-radius: 10px;
 
 }
 main a[href^="mailto:"] {
